@@ -31,10 +31,10 @@ export const GALLERY_IMAGES = [
   { src: "/gallery-4.png", alt: "Stylized coffee making scene" },
 ] as const;
 
-export const HERO_VIDEO_SRC = "https://ik.imagekit.io/w78l48b44/hero.mp4?updatedAt=1775725849782";
+export const HERO_VIDEO_SRC = "https://ik.imagekit.io/gcunh6w0m/hero.mp4";
 
 export const SHOWCASE_BG_VIDEO_SRC =
-  "https://ik.imagekit.io/w78l48b44/showcase.mp4";
+  "https://ik.imagekit.io/gcunh6w0m/kling_20260321_%E4%BD%9C%E5%93%81_shot_1_5s__55_0%20(1).mp4";
 
 export const CENTER_NAV_LINKS = [
   { label: "Home", href: "/" },

@@ -53,7 +53,7 @@ export default function Page() {
           <a
             target="_blank"
             rel="noopener"
-            href="https://ananda-1w.sentry.io/issues/?project=4511189309259856"
+            href="https://codesistency-gs.sentry.io/issues/?project=4511102283284560"
           >
             Issues Page
           </a>

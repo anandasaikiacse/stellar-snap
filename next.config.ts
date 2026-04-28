@@ -11,7 +11,7 @@ export default withSentryConfig(nextConfig, {
 
   org: "ananda-1w",
 
-  project: "luma-studio",
+  project: "stellar-snap",
 
   // Only print logs for uploading source maps in CI
   silent: !process.env.CI,
